@@ -1,7 +1,9 @@
 baseURL: https://ahenaor.github.io/
 languageCode: es-co
-title: Alejo Henao
+title: ALEJO HENAO
 theme: PaperMod
+defaultcontentlanguage: es
+
 
 menu:
   main:
@@ -54,6 +56,7 @@ params:
         threshold: 0.4
         minMatchCharLength: 1
         keys: ["title", "permalink", "summary", "content"]
+  ShowShareButtons: true
 
 outputs:
     home:
