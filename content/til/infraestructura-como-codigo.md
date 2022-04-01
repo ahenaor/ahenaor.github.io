@@ -1,7 +1,7 @@
 ---
 author: 'Alejo Henao'
 title: 'Qué es la Infraestructura como Código -IaC-'
-date: '2021-01-20'
+date: '2022-04-03'
 description: 'Definición rápida de la Infraestructura como Código y sus ventajas en el desarrollo de sofware'
 tags: ['IaC']
 categories: ['Conceptos']

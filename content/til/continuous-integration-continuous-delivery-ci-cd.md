@@ -1,7 +1,7 @@
 ---
 author: 'Alejo Henao'
 title: 'Qué es CI/CD - Continuous Integration (CI) / Continuous Delivery (CD)'
-date: '2021-01-21'
+date: '2022-04-02'
 description: 'Este artículo describe a grandes rasgos el concepto de CI/CD - Continuous Integration (CI) / Continuous Delivery (CD).'
 tags: ['CI/CD', 'CI', 'CD', 'Continuous Integration', 'Continuous Delivery', 'Integración Continua', 'Despliegue Continuo']
 categories: ['Conceptos']

@@ -1,7 +1,7 @@
 ---
 author: 'Alejo Henao'
 title: 'Cómo configurar una función Lambda para ejecutarse con Runtime Python 3.9 con pandas'
-date: '2021-01-19'
+date: '2022-04-01'
 description: 'Este artículo muestra de manera concreta una propuesta de paso a paso para configurar una función Lambda bajo un Runtime Python 3.9 con arquitectura x86_64.'
 tags: ['Lambda', 'Python', 'pandas']
 categories: ['AWS']
